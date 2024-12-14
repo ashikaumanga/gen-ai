@@ -1,0 +1,11 @@
+langgraph
+langchain-community
+pandas
+langchain-google-vertexai
+faster_whisper
+torch
+torchaudio
+pyaudio
+sounddevice
+pyowm
+omegaconf
